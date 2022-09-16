@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🔭 About me 🔭
 
 - 👻 My name is Toan Bach.
-- 👨‍🎓 I am a first-year student at [UIT-HCMVNU](https://www.uit.edu.vn/). 
+- 👨‍🎓 I am a second-year student at [UIT-HCMVNU](https://www.uit.edu.vn/). 
 <!--
 - 💬 My Resume <a href="./Resume.pdf"> here </a> 
 -->

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🔭 About me 🔭
+## 🔭 About me 🔭
 
 - 👻 My name is Toan Bach.
 - 👨‍🎓 I am a second-year student at [UIT-HCMVNU](https://www.uit.edu.vn/). 
@@ -22,10 +22,25 @@ Here are some ideas to get you started:
 - 💬 My Resume <a href="./Resume.pdf"> here </a> 
 -->
 
-# Contributions 📈
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=LTBach&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LTBach&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
-</a>
+## 📫 Contact me via:
+   - 📫 [Facebook](https://www.facebook.com/toanbach.luong.7/).
+   - 📫 [Email](mailto:21521845@gm.uit.edu.vn).  
+## :zap: GitHub Stats:zap:
+<table>
+  <tr>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api?username=LTBach&show_icons=true&theme=tokyonight&hide=issues'>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=LTBach&theme=tokyonight&hide=issues&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
+    </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LTBach&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <img src='https://activity-graph.herokuapp.com/graph?username=LTBach&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
+    </td>
+  </tr>
+</table>

@@ -44,3 +44,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<!-- Footer -->
+<p align='center'>Copyright © 2022 - Lương Toàn Bách</p>

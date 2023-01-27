@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**LTBach/LTBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -36,11 +32,6 @@ Here are some ideas to get you started:
     </td>
     <td>
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LTBach&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <img src='https://activity-graph.herokuapp.com/graph?username=LTBach&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
     </td>
   </tr>
 </table>
